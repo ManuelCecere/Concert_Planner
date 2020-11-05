@@ -1,2 +1,2 @@
 # Concert_Planner
-A concert planner tool with Java
+A concert planner tool made with Java
